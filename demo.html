@@ -140,7 +140,7 @@
                 var highlightWord = $(this).attr('data-highlight-word');
                 var regExp = new RegExp(highlightWord, 'gi');
 
-                $(this).find('td:not(.actions)').filter(function() { if(null !== $(this).text().match(regExp)) {return this;} }).each(function() {
+                $(this).find('td').filter(function() { if(null !== $(this).text().match(regExp)) {return this;} }).each(function() {
                     $(this).highlightText(highlightWord);
                 });
             });
