@@ -1,0 +1,25 @@
+{
+  "name": "highlightText",
+  "title": "jQuery highlightText",
+  "description": "Simple Text Highlighting via Unobtrusive JavaScript",
+  "homepage": "https://github.com/trimentor/jquery-highlightText",
+  "keywords": ["highlight", "mark", "text", "effects", "ui"],
+  "version": "0.1.0",
+  "author": {
+    "name": "trimentor",
+    "url": "https://github.com/trimentor"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/trimentor/jquery-highlightText.git"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://raw.github.com/trimentor/jquery-highlightText/master/LICENSE"
+    }
+  ],
+  "dependencies": {
+    "jquery": ">=1.6.1"
+  }
+}
