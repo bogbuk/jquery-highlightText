@@ -19,4 +19,4 @@ The `highlightText` function accepts the following options:
 Check out the [demo.html](demo.html) page.
 
 ## Copyright
-Copyright © 2011 Kjel Delaey, released under the MIT license.
+Copyright © 2013 Kjel Delaey, released under the MIT license.
